@@ -1,0 +1,16 @@
+﻿# Visual Studio / .NET
+bin/
+obj/
+.vs/
+
+# User secrets / configs
+appsettings.json
+appsettings.*.json
+!appsettings.Example.json
+
+# Logs
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
